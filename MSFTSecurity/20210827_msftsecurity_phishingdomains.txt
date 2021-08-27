@@ -1,3 +1,7 @@
+# Source
+# https://www.microsoft.com/security/blog/2021/08/26/widespread-credential-phishing-campaign-abuses-open-redirector-links/?WT.mc_id=ES-MVP-5002204
+# Feel free to notify when the list is updated, not checking on a regular basis
+
 masihtidur-shoes08.com 
 masihtidur-shoes07.com 
 masihtidur-shoes04.com
